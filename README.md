@@ -16,7 +16,7 @@
 ## About the Project
 There are two parts to this project. The goal of part 1 of this project is to gain an understanding of how the city of Chicago, Illinois monitors mosquito populations and West Nile Virus (WNV) prevalence by placing traps around the city and studying captured specimens. The goal of part two is to analyze the relationship between the different variables and the mosquito number, as well as the probability of finding WNV at any particular time and location.
 
-I will be looking at the mosquito tracking data from 2008 to 2019.
+I will be looking at the mosquito tracking data from 2007 to 2019.
 
 [Back to top](#table-of-contents)
 
